@@ -1,0 +1,3 @@
+/home/sergey/ClionProjects/WebPrj/CMakeFiles/edit_cache.dir
+/home/sergey/ClionProjects/WebPrj/CMakeFiles/rebuild_cache.dir
+/home/sergey/ClionProjects/WebPrj/CMakeFiles/WebPrj.dir
